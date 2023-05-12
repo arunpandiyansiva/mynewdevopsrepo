@@ -15,6 +15,9 @@ and then again I need to commit
 the changes
 Welcome 
 to second window
- 
-we need to add additional column
->>>>>>> 297731b740e6bbf4bc21f10cb98d20ebe3f36db8
+
+Again i am changing new comments in window A
+congarts
+
+>>>>>>> 297731b740e6bbf4bc21f10
+>>>>>>> cb98d20ebe3f36db8
